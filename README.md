@@ -1,1 +1,1 @@
-# 2425_wt_sz_yunussov
+# 2024_wt_sz_yunussov
