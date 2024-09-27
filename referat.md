@@ -1,5 +1,3 @@
-# 2024_wt_sz_yunussov
-
 # George Boole
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Portrait_of_George_Boole.png/220px-Portrait_of_George_Boole.png" alt="Boole's Portrait" width="200">
 
