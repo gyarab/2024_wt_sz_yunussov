@@ -1,3 +1,3 @@
 ## Hey there 👋
 
-This is my repo, don't look into it 😇
+This is my repo, don't open it 😇
