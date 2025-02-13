@@ -1,5 +1,5 @@
 from time import sleep
-from turtle import goto, shape, right, hideturtle
+from turtle import goto, shape, hideturtle
 
 coordinates = [
     (0, 100),
