@@ -2,29 +2,19 @@ from time import sleep
 from turtle import goto, shape, right, hideturtle
 
 coordinates = [
+    (0, 100),
+    (100, 100),
     (100, 0),
-    (100, -200),
-    (-100, -200),
-    (-100, 0)
+    (0, 0),
+    (100, 100),
+    (50, 150),
+    (0, 100),
+    (100, 0)
 ]
 shape("turtle")
 
-for i in range(4):
-    goto(coordinates[i])
-    right(90)
-
-goto(100, 0)
-right(-135)
-goto(0, 100)
-right(-90)
-goto(-100, 0)
-
-right(-90)
-goto(100, -200)
-right(135)
-goto(-100, -200)
-right(135)
-goto(100, 0)
+for c in coordinates:
+    goto(c)
 
 sleep(1)
 hideturtle()
